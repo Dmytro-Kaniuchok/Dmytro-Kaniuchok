@@ -15,10 +15,3 @@ Skilled in React, TypeScript, and Next.js, and constantly expanding my knowledge
 ### 📫 Contacts:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-kaniuchok/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:kanyuchekdmitry@gmail.com)
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmytro-Kaniuchok&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmytro-Kaniuchok&layout=compact&theme=radical)
-
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dmytro-Kaniuchok&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
