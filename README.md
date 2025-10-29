@@ -16,9 +16,6 @@ Skilled in React, TypeScript, and Next.js, and constantly expanding my knowledge
 ### 📫 Contacts
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
-  </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
