@@ -16,11 +16,10 @@ Skilled in React, TypeScript, and Next.js, and constantly expanding my knowledge
 ### 📫 Contacts
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/dmytro-kaniuchok/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
-  <a href="mailto:your@email.com" target="_blank">
+  <a href="mailto:kanyuchekdmitry@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
 </p>
-
